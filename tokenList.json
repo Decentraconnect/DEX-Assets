@@ -1,5 +1,5 @@
 {
-  "name": "Tipboxcoin Default List",
+  "name": " Default List",
   "timestamp": "2023-01-21T23:57:10.982Z",
   "version": {
     "major": 2,
@@ -9,47 +9,19 @@
   "tags": {},
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
   "keywords": [
-    "Tipboxcoin",
+    "",
     "default"
   ],
   "tokens": [
     
     {
-      "chainId": 404040,
-      "address": "0xF7256527f97b4159E9Ad1D108927633aF6105560",
-      "name": "WTPBX",
-      "symbol": "WTPBX",
+      "chainId": 19224,
+      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
+      "name": "WDCSM",
+      "symbol": "WDCSM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/wtoken.png"
     },
-
-
-    {
-      "name": "ETH",
-      "address": "0x8694A1A789133c94aA3c95B80c852583628A93b6",
-      "symbol": "ETH",
-      "decimals": 18,
-      "chainId": 404040,
-      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/eth.png"
-    },
-    {
-      "name": "BNB",
-      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
-      "symbol": "BNB",
-      "decimals": 18,
-      "chainId": 404040,
-      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/bnb.png"
-    },
-
-    {
-      "name": "MATIC",
-      "address": "0xe5882F80f03493f8Eaa9Ae63E8baFeaEAc979378",
-      "symbol": "MATIC",
-      "decimals": 18,
-      "chainId": 404040,
-      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/matic.png"
-    }
     
-
   ]
 }
