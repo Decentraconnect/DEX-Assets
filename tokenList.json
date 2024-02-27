@@ -20,7 +20,34 @@
       "name": "WDCSM",
       "symbol": "WDCSM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/wtoken.png"
+      "logoURI": "https://raw.githubusercontent.com/Decentraconnect/DEX-Assets/main/assets/wtoken.png"
+    },
+
+    {
+      "chainId": 19224,
+      "address": "0x8694A1A789133c94aA3c95B80c852583628A93b6",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Decentraconnect/DEX-Assets/main/assets/eth.png"
+    },
+
+    {
+      "chainId": 19224,
+      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Decentraconnect/DEX-Assets/main/assets/bnb.png"
+    },
+
+    {
+      "chainId": 19224,
+      "address": "0xe5882F80f03493f8Eaa9Ae63E8baFeaEAc979378",
+      "name": "MATIC",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Decentraconnect/DEX-Assets/main/assets/matic.png"
     },
     
   ]
